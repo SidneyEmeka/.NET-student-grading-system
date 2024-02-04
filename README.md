@@ -8,9 +8,7 @@ Your application needs to perform basic math operations to calculate the final g
 Your application needs to output/display each student’s name and final score.
 
 Currently, the teachers grade book shows the graded assignments for each student as follows:
-
-
-Copy
+<br>
 Sophia: 93, 87, 98, 95, 100
 
 Nicolas: 80, 83, 82, 88, 85
@@ -20,9 +18,7 @@ Zahirah:   84, 96, 73, 85, 79
 Jeong:  90, 92, 98, 100, 97
 
 The teacher requires that the calculated grades for each student are displayed as follows:
-
-
-Copy
+<br>
 Student     Grade
 Sophia      94.6  A
 Nicolas     83.6  B
