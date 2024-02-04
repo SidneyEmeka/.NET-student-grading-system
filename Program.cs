@@ -43,7 +43,8 @@ int jeong3 = 98;
 int jeong4 = 100;
 int jeong5 = 97;
 
-decimal Sophia = (sophia1 + sophia2 + sophia3 + sophia4 + sophia5) / (decimal)currentAssignments;
+decimal Sophia = (sophia1 + sophia2 + sophia3 + sophia4 + sophia5) / (decimal)currentAssignments; //Used decimal so that the result will not be truncated to a whole number
+
 
 
 decimal Nicolas = (nicolas1 + nicolas2 + nicolas3 + nicolas4 + nicolas5) / (decimal)currentAssignments;
