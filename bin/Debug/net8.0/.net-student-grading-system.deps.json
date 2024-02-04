@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      ".net-student-grading-system/1.0.0": {
+        "runtime": {
+          ".net-student-grading-system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    ".net-student-grading-system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
