@@ -1,22 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Check README.md for a more detailed description
 
-/*You're developing a Student Grading application that automates the calculation of current grades for each student in a class. The parameters for your application are:
-
-You're given a short list of four students and their five assignment grades.
-Each assignment grade is expressed as an integer value, 0-100, where 100 represents 100% correct.
-Final scores are calculated as an average of the five assignment scores.
-Your application needs to perform basic math operations to calculate the final grades for each student.
-Your application needs to output/display each student’s name and final score.
-The teacher requires that the calculated grades for each student are displayed as follows:
-
-
-Copy
+/*The teacher requires that the calculated grades for each student are displayed as follows:
 Student     Grade
 Sophia      94.6  A
 Nicolas     83.6  B
 Zahirah     83.4  B
 Jeong       95.4  A
 */
+
 int currentAssignments = 5;
 
 int sophia1 = 93;
