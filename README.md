@@ -24,12 +24,9 @@ Final scores are calculated as an average of the five assignment scores.
 
 The teacher requires that the calculated grades for each student are displayed as follows:
 <br>
-Student     Grade
-Sophia      94.6  A
-Nicolas     83.6  B
-Zahirah     83.4  B
-Jeong       95.4  A
+Student         Exam Score      Overall Grade   Extra Credit
 
+Sophia          92.2            95.88   A       92 (3.68 pts)
 Check program.cs file for the program code
 
 ##.NET/C#
