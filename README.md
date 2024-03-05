@@ -14,7 +14,7 @@ The code automatically assigns a student's letter grade based on their final num
 67 - 69    D+
 63 - 66    D
 60 - 62    D-
-0  - 59    F
+0  - 59    F <br>
 Each student has five assignment grades, and also an opportunity to take extra credit assignments.<br>
 The first five grades are the Assignment grades then the rest are the extra credit scores.<br>
 Each assignment grade is expressed as an integer value, 0-100, where 100 represents 100% correct.<br>
