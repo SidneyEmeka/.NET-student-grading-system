@@ -27,6 +27,6 @@ The teacher requires that the calculated grades for each student are displayed a
 Student         Exam Score      Overall Grade   Extra Credit
 
 Sophia          92.2            95.88   A       92 (3.68 pts)<br>
-Check program.cs file for the program code
+Check program.cs file for the logic
 
 ## Foreach Loop
